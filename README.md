@@ -1,12 +1,12 @@
-- 👋 Hi, I’m @JessyWts
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+🖥️ Full Stack Developer specialized in JavaScript and Node.js.
+🔒 Expert in web application security.
+🔄 Automation of development and deployment with CI/CD.
+🌐 Enthusiastic about technology trends and the latest advancements.
+📦 npm dependency management.
+👩‍💻 Collaborative team player, dedicated to creating high-performing applications
 
-<!---
-JessyWts/JessyWts is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🌐 Socials:
+LinkedIn  
+
+💻 Tech Stack:
+CSS3 JavaScript HTML5 PHP TypeScript Firebase GithubPages Netlify Bootstrap Chart.js Express.js Green Sock NPM NestJS Next JS jQuery NodeJS Nodemon Nuxt JS Redux React Router React Native React SASS Socket.io Vue.js Vite WordPress TailwindCSS Bulma Apache MongoDB MySQL Postgres SQLite MariaDB Firebase Adobe Adobe Photoshop Adobe InDesign Adobe Illustrator Canva Figma Adobe XD Adobe Premiere Pro Adobe Dreamweaver Adobe Creative Cloud Docker Postman Windows Terminal Heroku
